@@ -6,7 +6,7 @@ User <------> Proxy <-----> Internet Domain
 ```
 So the Proxy receives requests from the internal network (LAN) and forward them to the internet and vice versa.
 
-**The proxy server requests data from external API and serves the user that information**
+**The proxy server requests data from external API and serves the user that information.**
 
 - Create a directory. In this case, mine is:
 	`my-proxy`
