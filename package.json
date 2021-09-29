@@ -1,0 +1,16 @@
+{
+  "name": "my-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "PabloFLPs <pablofelipe1999@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.1",
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "code": "nodemon my-proxy"
+  }
+}
